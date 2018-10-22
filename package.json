@@ -1,0 +1,36 @@
+{
+  "name": "Router",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-env": "*",
+    "babel-preset-stage-0": "*",
+    "bootstrap": "*",
+    "css-loader": "*",
+    "file-loader": "*",
+    "materialize-css": "^1.0.0-rc.2",
+    "node-sass": "^4.9.0",
+    "path": "*",
+    "sass-loader": "^7.0.2",
+    "style-loader": "*",
+    "vue": "*",
+    "vue-loader": "*",
+    "vue-material-components": "^0.3.4",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.16",
+    "vuex": "^3.0.1",
+    "webpack": "*",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "*",
+    "webpack-merge": "*"
+  }
+}

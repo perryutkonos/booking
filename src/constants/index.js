@@ -1,0 +1,1 @@
+export const APU_URL = "https://192.168.100.5:5001/api";
