@@ -5,5 +5,5 @@
 2. Не использовался на production
 
 ### Сборка
-`npm start` - для разработки
-`npm run build` - сборка для production
+* `npm start` - для разработки
+* `npm run build` - сборка для production
